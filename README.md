@@ -10,7 +10,7 @@ Installation
 1.	Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/dashboard-app.git
+git clone https://github.com/arpita-gitrepo/dashboard-app.git
 cd dashboard-app
 2.	Install dependencies:
 bash
